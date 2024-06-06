@@ -1,0 +1,11 @@
+1) Ensure you have Node.js and npm (Node Package Manager) installed.
+2) Open File Directory in IDE or Code Editor Tool.
+3) Run "npm install" - Before running the React application, you need to install the necessary dependencies. After the dependencies are installed, start the development server
+4) Run "npm start" - To start the development server, run the command
+
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start

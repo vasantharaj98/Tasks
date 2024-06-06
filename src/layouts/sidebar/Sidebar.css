@@ -1,0 +1,26 @@
+.sidebar{
+    position: fixed;
+    top: 73px;
+    z-index: 1111;
+    width: 200px;
+    height: 100vh;
+    background-color: #fff;
+    border-right: 1px solid #bababa;
+}
+.sidemenu{
+    border-left: 5px solid transparent;
+    border-bottom: 1px solid #bababa;
+}
+.sidemenu:hover{
+    background-color: #ffebda;
+}
+.sidemenu.active{
+    background-color: #ffebda;
+    border-left: 5px solid #ef7f1a;
+}
+.sidemenu.active svg{
+    color: #ef7f1a;
+}
+.sidemenu.active p{
+    color: #ef7f1a;
+}
